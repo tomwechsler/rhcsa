@@ -10,6 +10,7 @@
  (O) inserts a new line above the current one and enters insert mode on the new line  
  
  **Delete, copy and paste:**  
+ 
  (y) yank (copy) the current line  
  (4y) yank (copy) the next 4 lines  
  (p) paste the yanked line(s) below the current line  
