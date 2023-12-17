@@ -8,6 +8,16 @@
  (A) moves the cursor to the end of the line and enters insert mode  
  (o) inserts a new line below the current line and enters insert mode on the new line  
  (O) inserts a new line above the current one and enters insert mode on the new line  
+ 
+ **Delete, copy and paste:**
+ (y) yank (copy) the current line  
+ (4y) yank (copy) the next 4 lines  
+ (p) paste the yanked line(s) below the current line  
+ (P) paste the yanked line(s) above the current line  
+ (dd) delete the current line  
+ (4dd) delete the next 4 lines  
+ (dw) delete the current word  
+ (d$) delete to the end of the line  
 
 **Exit and save:**
 
