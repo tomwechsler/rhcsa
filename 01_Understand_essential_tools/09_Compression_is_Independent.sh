@@ -14,6 +14,3 @@ ls -lh
 tar -cJf doc.tar.xz /usr/share/doc &> /dev/null &
 
 ps
-
-
-

@@ -26,5 +26,3 @@ cd /
 sudo tar -xf ~vagrant/etc.tar etc/hosts
 
 !ca
-
-
