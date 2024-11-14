@@ -1,4 +1,4 @@
-# rhcsa
+# RHCSA
 Red Hat Certified System Administrator (RHCSA) EX-200!  
 https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
 
